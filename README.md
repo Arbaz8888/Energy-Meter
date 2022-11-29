@@ -11,6 +11,6 @@ Estimating value for accuracy of certain dataset by comparing test dataset with 
 
 2)Measure the performance of trained model. 
 
-3)Using K-fold cross validation technique evaluating different Machine Learning Algorithms to identify which model is performing well.
+3)Evaluating different Machine Learning Algorithms to identify which model is performing well.
 
 4)To estimate the generalization accuracy of a model on the future data.
